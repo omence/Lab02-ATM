@@ -65,7 +65,7 @@ namespace Lab2
                                 break;
                             //default
                             default:
-                                UserInterface();
+                                Environment.Exit(0);
                                 break;
 
                         }
